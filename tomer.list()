@@ -1,0 +1,9 @@
+=> 
+[32m#<Stripe::ListObject:0x3f5c> JSON: {
+  "object": "list",
+  "data": [
+
+  ],
+  "has_more": false,
+  "url": "/v1/customers"
+}[0m
